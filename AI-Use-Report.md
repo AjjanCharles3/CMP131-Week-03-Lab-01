@@ -2,16 +2,16 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Charles Ajjan
+- Week:3
+- Lab:1
+- Date:09/10/2026
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
+- [x ] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
@@ -20,34 +20,34 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:
+Tool:github copilot
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:
+Response: assistance on tasks, ie; run function, how to start lab ect.
 
 ## How I Used the Assistance
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response:
+Response: I followed the prompted responces such as; name=
 
 ## Testing and Verification
 
 Explain how you tested the code and confirmed that the AI assistance was accurate.
 
-Response:
+Response: i ran the code and confirmed it in the terminal 
 
 ## What I Learned
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: patience and concitency out weigh a strong will.
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: I got better help from you professor.
